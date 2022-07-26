@@ -44,6 +44,57 @@ Karvel Thornber, Lance Williams
 [Bayesian Reconstruction of 3D Human Motion from Single-Camera Video](https://papers.nips.cc/paper/1999/hash/9fe97fff97f089661135d0487843108e-Abstract.html)<br>
 Nicholas Howe, Michael Leventon, William Freeman
 
+### NeurIPS 2000
 
+[Color Opponency Constitutes a Sparse Representation for the Chromatic Structure of Natural Scenes](https://papers.nips.cc/paper/2000/hash/0609154fa35b3194026346c9cac2a248-Abstract.html)<br>
+Te-Won Lee, Thomas Wachtler, Terrence J. Sejnowski
+
+[Shape Context: A New Descriptor for Shape Matching and Object Recognition](https://papers.nips.cc/paper/2000/hash/c44799b04a1c72e3c8593a53e8000c78-Abstract.html)<br>
+Serge Belongie, Jitendra Malik, Jan Puzicha
+
+
+### NeurIPS 2002
+
+[Recovering Intrinsic Images from a Single Image](https://papers.nips.cc/paper/2002/hash/fa2431bf9d65058fe34e9713e32d60e6-Abstract.html)<br>
+Marshall Tappen, William Freeman, Edward Adelson
+
+[Shape Recipes: Scene Representations that Refer to the Image](https://papers.nips.cc/paper/2002/hash/2b8eba3cb0d0f1d761cb74d94a5ace36-Abstract.html)<br>
+William Freeman, Antonio Torralba
+
+[How to Combine Color and Shape Information for 3D Object Recognition: Kernels do the Trick](https://papers.nips.cc/paper/2002/hash/b0df2270be9cb16c14537e5bc2f2d37b-Abstract.html)<br>
+B. Caputo, Gy. Dorkó
+
+### NeurIPS 2003
+
+[Learning Non-Rigid 3D Shape from 2D Motion](https://papers.nips.cc/paper/2003/hash/8db9264228dc48fbf47535e888c02ae0-Abstract.html)<br>
+Lorenzo Torresani, Aaron Hertzmann, Christoph Bregler
+
+[Discriminating Deformable Shape Classes](https://papers.nips.cc/paper/2003/hash/3f53d7190148675e3cd472fc826828c5-Abstract.html)<br>
+Salvador Ruiz-correa, Linda Shapiro, Marina Meila, Gabriel Berson
+
+### NeurIPS 2004
+
+[Surface Reconstruction using Learned Shape Models](https://papers.nips.cc/paper/2004/hash/7180cffd6a8e829dacfc2a31b3f72ece-Abstract.html)<br>
+Jan Solem, Fredrik Kahl
+
+[Kernel Methods for Implicit Surface Modeling](https://papers.nips.cc/paper/2004/hash/64a08e5f1e6c39faeb90108c430eb120-Abstract.html)<br>
+Joachim Giesen, Simon Spalinger, Bernhard Schölkopf
+
+[The Correlated Correspondence Algorithm for Unsupervised Registration of Nonrigid Surfaces](https://papers.nips.cc/paper/2004/hash/e02e27e04fdff967ba7d76fb24b8069d-Abstract.html)<br>
+Dragomir Anguelov, Praveen Srinivasan, Hoi-cheung Pang, Daphne Koller, Sebastian Thrun, James Davis
+
+### NeurIPS 2005
+
+[Scaling Laws in Natural Scenes and the Inference of 3D Shape](https://papers.nips.cc/paper/2005/hash/2b64c2f19d868305aa8bbc2d72902cc5-Abstract.html)<br>
+Tai-sing Lee, Brian Potetz
+
+[A Cortically-Plausible Inverse Problem Solving Method Applied to Recognizing Static and Kinematic 3D Objects](https://papers.nips.cc/paper/2005/hash/ec7f346604f518906d35ef0492709f78-Abstract.html)<br>
+David Arathorn
+
+[Learning Dense 3D Correspondence](https://papers.nips.cc/paper/2006/hash/e22cb9d6bbb4c290a94e4fff4d68a831-Abstract.html)<br>
+Florian Steinke, Volker Blanz, Bernhard Schölkopf
+
+[Implicit Surfaces with Globally Regularised and Compactly Supported Basis Functions](https://papers.nips.cc/paper/2006/hash/7b66e8931c93da8c88a0a8b6dec62f9e-Abstract.html)<br>
+Christian Walder, Olivier Chapelle, Bernhard Schölkopf
 
 
