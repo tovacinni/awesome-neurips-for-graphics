@@ -45,6 +45,9 @@ Zili Liu, Daniel Kersten
 [Orientation, Scale, and Discontinuity as Emergent Properties of Illusory Contour Shape](https://papers.nips.cc/paper/1998/hash/109d2dd3608f669ca17920c511c2a41e-Abstract.html)<br>
 Karvel Thornber, Lance Williams
 
+[Bayesian Model of Surface Perception](https://papers.nips.cc/paper/1997/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html)<br>
+William Freeman, Paul Viola
+
 ### NeurIPS 1999
 
 [Bayesian Reconstruction of 3D Human Motion from Single-Camera Video](https://papers.nips.cc/paper/1999/hash/9fe97fff97f089661135d0487843108e-Abstract.html)<br>
