@@ -1,3 +1,9 @@
+## Computer Graphics at NeurIPS
+
+This is a compilation of computer graphics research (broadly defined) from old (<2005) NeurIPS conferences. 
+
+NeurIPS 2004 also had a workshop on [Learning in Graphics and Vision](http://www.dgp.toronto.edu/~radek/nips2004/papers.htm) which also has many relevant papers.
+
 ### NeurIPS 1989 
 
 [Contour-Map Encoding of Shape for Early Vision](https://papers.nips.cc/paper/1989/hash/cfecdb276f634854f3ef915e2e980c31-Abstract.html)<br>
